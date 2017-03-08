@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yueyongblog.com/2017/03/07/hello-world/</loc>
+    
+    <lastmod>2017-03-08T09:40:45.767Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yueyongblog.com/personal/index.html</loc>
     
     <lastmod>2017-03-07T16:49:18.604Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://yueyongblog.com/photos/index.html</loc>
     
     <lastmod>2017-03-07T16:23:22.739Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yueyongblog.com/2017/03/07/hello-world/</loc>
-    
-    <lastmod>2017-03-07T12:06:25.846Z</lastmod>
     
   </url>
   
