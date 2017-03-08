@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yueyongblog.com/"/>
-  <updated>2017-03-08T10:26:00.791Z</updated>
+  <updated>2017-03-08T12:12:09.525Z</updated>
   <id>http://yueyongblog.com/</id>
   
   <author>
@@ -16,11 +16,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>markdown-grammar-use</title>
+    <link href="http://yueyongblog.com/2017/03/08/markdown-grammar-use/"/>
+    <id>http://yueyongblog.com/2017/03/08/markdown-grammar-use/</id>
+    <published>2017-03-08T12:12:09.000Z</published>
+    <updated>2017-03-08T12:12:09.525Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Python learn note one</title>
     <link href="http://yueyongblog.com/2017/03/08/Python-learn-note-one/"/>
     <id>http://yueyongblog.com/2017/03/08/Python-learn-note-one/</id>
     <published>2017-03-08T10:21:47.000Z</published>
-    <updated>2017-03-08T10:26:00.791Z</updated>
+    <updated>2017-03-08T12:33:22.146Z</updated>
     
     <content type="html"><![CDATA[<p>Python的3.0版本，常被称为Python 3000，或简称Py3k。相对于Python的早期版本，这是一个较大的升级。为了不带入过多的累赘，Python 3.0在设计的时候没有考虑向下兼容。</p>
 ]]></content>
@@ -35,7 +49,9 @@
       <category term="Python" scheme="http://yueyongblog.com/categories/Python/"/>
     
     
-      <category term="python，note" scheme="http://yueyongblog.com/tags/python%EF%BC%8Cnote/"/>
+      <category term="python" scheme="http://yueyongblog.com/tags/python/"/>
+    
+      <category term="note" scheme="http://yueyongblog.com/tags/note/"/>
     
   </entry>
   
@@ -44,9 +60,11 @@
     <link href="http://yueyongblog.com/2017/03/07/hello-world/"/>
     <id>http://yueyongblog.com/2017/03/07/hello-world/</id>
     <published>2017-03-07T00:08:40.000Z</published>
-    <updated>2017-03-08T10:20:39.958Z</updated>
+    <updated>2017-03-08T12:09:39.035Z</updated>
     
     <content type="html"><![CDATA[<p><strong>欢迎您的到来，终于抽空把博客搭建好了，一直想拥有自己的一些空间，记录自己生活或工作的琐事，沐浴在午后的阳光，喝着茶，看看书，听听音乐；也喜欢走在傍晚的马路上，看那霓虹灯和飞驰的车辆，让我思考着人生……喜欢这种自由和清爽的生活！</strong></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=436514312&auto=1&height=66"></iframe>
+
 <a id="more"></a>
 <p><img src="http://upload-images.jianshu.io/upload_images/3275724-8fea54b4fef2cec2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="Paste_Image.png"></p>
 ]]></content>
